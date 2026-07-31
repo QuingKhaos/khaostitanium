@@ -66,8 +66,8 @@ khaoslib_entity:load {
     hardness = 1,
     mining_time = 2,
     mining_particle = "titanium-ore-particle",
-    required_fluid = settings.startup["khaoslead-mining-fluid"].value --[[@as string]],
-    fluid_amount = settings.startup["khaoslead-mining-fluid-amount"].value --[[@as double]],
+    required_fluid = settings.startup["khaostitanium-mining-fluid"].value --[[@as string]],
+    fluid_amount = settings.startup["khaostitanium-mining-fluid-amount"].value --[[@as double]],
     result = "titanium-ore"
   }
   :commit()
