@@ -1,16 +1,15 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "khaostitanium",
+  "title": "Titanium Revamped",
+  "description": "Adds titanium to the base game. Titanium is used in Low Density Structures, Flying Robot Frames and a few other places.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.0.0",
-  "factorio_version": "2.0",
+  "version": "0.1.0",
+  "factorio_version": "2.1",
   "dependencies": [
-    "base >= 2.0.77",
+    "base >= 2.1.11",
 
-    "khaosbash >= 1.2.0",
-    "khaoslib >= 1.18.0"
+    "khaoslib >= 2.1.0"
   ],
   "package": {
     "ignore": [

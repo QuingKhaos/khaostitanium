@@ -1,10 +1,12 @@
 mod_info:
   title: |
-    ###TITLE###
+    Titanium Revamped
   summary: |
-    ###DESC###
+    Adds titanium to the base game. Titanium is used in Low Density Structures, Flying Robot Frames and a few other places.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
-  category: internal
-  tags: []
+  category: content
+  tags:
+    - manufacturing
+    - mining
