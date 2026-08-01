@@ -3,6 +3,7 @@ Version: 0.1.1
 Date: ????
   Compatibility:
     - Add support for Helicopter Revival.
+    - Add support for Jetpack.
     - Add support for Lex's Aircraft.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
