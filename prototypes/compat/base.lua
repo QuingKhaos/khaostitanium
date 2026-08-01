@@ -11,6 +11,7 @@ khaoslib_technology:load("battery-equipment"):add_prerequisite("titanium-process
 
 local equipment_recipes = khaoslib_recipe.find(function(recipe)
   return khaoslib_recipe.has_result(recipe, function(result)
+    --- @diagnostic disable-next-line: param-type-mismatch
     return result.name:match("equipment") ~= nil
   end)
 end)
