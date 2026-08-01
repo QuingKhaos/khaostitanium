@@ -5,7 +5,7 @@ khaoslib_item:load {
   type = "item",
   name = "titanium-plate",
   subgroup = "raw-material",
-  order = "a[smelting]-d[titanium-plate]",
+  order = "a[smelting]-db[titanium-plate]",
   stack_size = 100,
   weight = 1 * kg,
 

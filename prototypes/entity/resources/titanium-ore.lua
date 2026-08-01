@@ -23,7 +23,7 @@ data:extend {
     name = "titanium-ore",
     localised_name = {"", "[entity=titanium-ore] ", {"entity-name.titanium-ore"}},
     category = "resource",
-    order = "a-ba",
+    order = "a-bb",
     richness = true,
   },
 }

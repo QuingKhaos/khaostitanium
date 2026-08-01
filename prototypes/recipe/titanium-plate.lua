@@ -4,7 +4,7 @@ khaoslib_recipe:load {
   type = "recipe",
   name = "titanium-plate",
   subgroup = "raw-material",
-  order = "a[smelting]-d[titanium-plate]",
+  order = "a[smelting]-db[titanium-plate]",
   enabled = true,
   allow_productivity = true,
   energy_required = 8,

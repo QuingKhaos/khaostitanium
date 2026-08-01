@@ -6,7 +6,7 @@ khaoslib_item:load {
   name = "titanium-ore",
   localised_name = {"entity-name.titanium-ore"},
   subgroup = "raw-resource",
-  order = "fa[titanium-ore]",
+  order = "fb[titanium-ore]",
   stack_size = 50,
   weight = 4.5 * kg,
 
