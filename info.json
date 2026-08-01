@@ -12,7 +12,10 @@
 
     "khaoslib >= 2.1.0",
 
-    "? lex-aircraft >= 1.4.0"
+    "? lex-aircraft >= 1.4.0",
+
+    "! bztitanium",
+    "! bztitanium2"
   ],
   "package": {
     "ignore": [
