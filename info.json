@@ -12,6 +12,7 @@
 
     "khaoslib >= 2.1.0",
 
+    "? HelicopterRevival >= 0.7.1",
     "? lex-aircraft >= 1.4.0",
 
     "! bztitanium",

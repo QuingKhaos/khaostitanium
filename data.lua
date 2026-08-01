@@ -10,4 +10,5 @@ require("__khaostitanium__.prototypes.technology.titanium-processing")
 
 require("__khaostitanium__.prototypes.compat.base")
 
+require("__khaostitanium__.prototypes.compat.helicopter-revival")
 require("__khaostitanium__.prototypes.compat.lex-aircraft")
