@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
-Date: ????
+Date: 2026-08-01
   Compatibility:
     - Add support for Helicopter Revival.
     - Add support for Jetpack.
