@@ -4,7 +4,7 @@
   "description": "Adds titanium to the base game. Titanium is used in Low Density Structures, Flying Robot Frames and a few other places.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
